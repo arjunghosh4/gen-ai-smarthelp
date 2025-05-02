@@ -4,6 +4,12 @@
 
 ---
 
+## 🤝 Contributors
+
+Made with ❤️ by Arjun, Anubhav, Shubha, Saurabh & Sujoy (MSIS Class of Fall 2024)
+
+---
+
 ## ✨ Features
 
 | Feature                       | Functionality                                                                 |
@@ -51,11 +57,5 @@
 ## 📜 License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
-
----
-
-## 🤝 Contributors
-
-Made with ❤️ by Arjun, Anubhav, Shubha, Saurabh & Sujoy (MSIS Class of Fall 2024)
 
 ---
